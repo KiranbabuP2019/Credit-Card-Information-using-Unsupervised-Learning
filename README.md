@@ -1,1 +1,1 @@
-Using K-means clustering, analyze credit card details and specify the number of observations in each cluster
+Credit card details,Build a K-means clustering model and specify the number of observations in each cluster.
